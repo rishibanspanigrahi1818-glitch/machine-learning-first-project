@@ -9,7 +9,7 @@ This project helped me understand the end-to-end ML workflow, from data handling
 • Data cleaning and preprocessing using Pandas
 • Exploratory data analysis to understand patterns
 • Training regression models using scikit-learn
-• Evaluating results and understanding model behavior
+• Evaluating results and understanding model behavior 
 
 🧠 What I learned:
 
